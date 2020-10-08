@@ -50,7 +50,7 @@
       class="mr-4"
       @click="validate"
     >
-      Validate
+      Accept
     </v-btn>
     <v-btn
       color="error"
